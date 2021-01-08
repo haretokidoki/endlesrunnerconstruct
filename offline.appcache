@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1610062472
+#1610075380
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,6 +23,9 @@ images/spritefont.png
 images/sprite-sheet0.png
 media/underclocked.ogg
 media/vibe%20mountain.ogg
+media/crash.ogg
+media/mbledos.ogg
+media/fall.ogg
 icon-16.png
 icon-32.png
 icon-114.png
